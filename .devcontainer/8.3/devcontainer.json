@@ -12,7 +12,8 @@
         "vscode": {
             "extensions": [
                 "bmewburn.vscode-intelephense-client",
-                "ms-azuretools.vscode-containers"
+                "ms-azuretools.vscode-containers",
+                "github.vscode-github-actions"
             ],
             "settings": {}
         }
